@@ -2,24 +2,28 @@
 
 
 ```javascript
-const Brasileiro = {
-                     nome: "Luiz Adolfo Frederico",
-                     nick: "Lxxz",
-                     aniversário: "30/05",
-                     maiorAmor: "Botafogo de Futebol e Regatas ★彡",
-                     linguas: ["Português", "Inglês", "Francês"],
-                     mePergunteSobre: ["DiMel Futebol Clube", "DC Comics", "A Canção de Gelo e Fogo", "RPG", "Studio Ghibli"],
-                     focoAtual: "Estudos de Programação e Lingua Francesa",
-                     programacao: {
-                                    programo: ["Javascript", "PHP"],
-                                                    tecnologias: {
-                                                                   backEnd: {
-                                                                              js: ["Node", "Fastify", "Express"]
-                                                                            },
-                                                                   bancosDeDados: ["MySql", "sqlite"]
-                                                                 }
-                                  }
-                    }
+const Brasileiro =
+{
+  nome: "Luiz Adolfo Frederico",
+  nick: "Lxxz",
+  aniversário: "30/05",
+  maiorAmor: "Botafogo de Futebol e Regatas ★彡",
+  linguas: ["Português", "Inglês", "Francês"],
+  mePergunteSobre: ["DiMel Futebol Clube", "DC Comics", "A Canção de Gelo e Fogo", "RPG", "Studio Ghibli"],
+  focoAtual: "Estudos de Programação e Lingua Francesa",
+  programacao:
+  {
+    programo: ["Javascript", "PHP"],
+    tecnologias:
+    {
+      backEnd:
+      {
+        js: ["Node", "Fastify", "Express"]
+      },
+      bancosDeDados: ["MySql", "sqlite"]
+    }
+  }
+}
 ```
 
 #### TECNOLOGIAS
