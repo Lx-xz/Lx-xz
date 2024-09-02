@@ -9,7 +9,7 @@ const Brasileiro =
   aniversário: "30/05",
   maiorAmor: "Botafogo de Futebol e Regatas ★彡",
   linguas: ["Português", "Inglês", "Francês"],
-  mePergunteSobre: ["DiMel Futebol Clube", "Jogos", "RPG", "A Canção de Gelo e Fogo", "Studio Ghibli"],
+  mePergunteSobre: ["RPG", "A Canção de Gelo e Fogo", "Studio Ghibli"],
   focoAtual: "Estudos de Programação e Lingua Francesa",
   programacao:
   {
